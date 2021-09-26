@@ -17,11 +17,11 @@ export default function Resume() {
           I am currently working as a Data Solution Architect - designing and building secure, highly scabale, fast data platforms to cater to the ever growing need of data-driven organizations. With the years of experience in building data solutions for customers in different domains across the world, I can offer the best practices, industry standards to modernize an existing data platform, and/or to implement data solution on latest technologies like Databricks and other cloud offereings.
         </div> */}
 
-        <div className="max-w-5xl my-10">
+        <div className="xl:max-w-5xl w-full my-10">
           <Experience />
         </div>
 
-        <div className="flex space-x-2 mb-12">
+        <div className="flex space-x-2 mb-12 w-full items-center justify-center">
           <a className="cursor-pointer rounded-2xl border-2 bg-blueaccent border-blueaccent hover:bg-white hover:text-black text-white py-1  px-4 text-sm">DOWNLOAD RESUME</a>
           <a className="cursor-pointer rounded-2xl border-2 text-sm border-black hover:bg-blueaccent hover:border-blueaccent hover:text-white py-1 px-4">PROJECTS</a>
         </div>

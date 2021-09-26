@@ -35,6 +35,7 @@ export default function Home() {
             <div className="flex space-x-2 mt-8 mb-12">
               <a className="cursor-pointer rounded-2xl border-2 bg-blueaccent border-blueaccent hover:bg-white hover:text-black text-white py-1  px-4 text-sm">RESUME</a>
               <a className="cursor-pointer rounded-2xl border-2 text-sm border-black hover:bg-blueaccent hover:border-blueaccent hover:text-white py-1 px-4">PROJECTS</a>
+              <a className="cursor-pointer rounded-2xl border-2 text-sm border-black hover:bg-blueaccent hover:border-blueaccent hover:text-white py-1 px-4">BLOG</a>
             </div>
             <div>You have found my personal slice on internet. I am a Data Solution Architect, currently working at Tata Consultancy Services in Mumbai as an Associate Consultant.</div>
             <div>

@@ -88,11 +88,6 @@ export default function Experience() {
     <div className="">
 
         {/* Heading */}
-        {/* <div className="flex items-center w-full space-x-4 mt-20">
-            <div className=" flex-1 h-1 bg-websitedark-orange"></div>
-            <span className="md:text-4xl text-3xl font-semibold tracking-tight inline">Resume</span>
-            <div className=" flex-1 h-1 bg-websitedark-orange"></div>
-        </div> */}
         <div className="w-full border bg-white border-gray-300 dark:border-gray-700 
     rounded-lg px-2 py-10 flex flex-col justify-center items-center mb-10 shadow-lg">
         
