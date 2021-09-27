@@ -13,7 +13,7 @@ export default function ProjectCards() {
                 <div className="pt-10 pb-2">
                     <p className="border-l-8 border-blueaccent text-2xl font-semibold px-5 py-4">Metadata Management System</p>
                     <div className="py-1 flex items-center space-x-2 px-5 mt-2">
-                        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 9l3 3-3 3m5 0h3M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                         </svg>
                         <p className="text-sm font-light">Elasticsearch, Kafka, Graphana</p>
@@ -34,7 +34,7 @@ export default function ProjectCards() {
                 <div className="pt-10 pb-2">
                     <p className="border-l-8 border-blueaccent text-2xl font-semibold px-5 py-4">Spring Batch Orchestration</p>
                     <div className="py-1 flex items-center space-x-2 px-5 mt-2">
-                        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 9l3 3-3 3m5 0h3M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                         </svg>
                         <p className="text-sm font-light">Elasticsearch, Kafka, Graphana</p>
@@ -55,7 +55,7 @@ export default function ProjectCards() {
                 <div className="pt-10 pb-2">
                     <p className="border-l-8 border-blueaccent text-2xl font-semibold px-5 py-4">A Stream Processing Engine</p>
                     <div className="py-1 flex items-center space-x-2 px-5 mt-2">
-                        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 9l3 3-3 3m5 0h3M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                         </svg>
                         <p className="text-sm font-light">Elasticsearch, Kafka, Graphana</p>
@@ -76,7 +76,7 @@ export default function ProjectCards() {
                 <div className="pt-10 pb-2">
                     <p className="border-l-8 border-blueaccent text-2xl font-semibold px-5 py-4">A Log Management System</p>
                     <div className="py-1 flex items-center space-x-2 px-5 mt-2">
-                        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 9l3 3-3 3m5 0h3M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                         </svg>
                         <p className="text-sm font-light">Elasticsearch, Kafka, Graphana</p>
