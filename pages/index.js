@@ -46,16 +46,16 @@ export default function Home() {
                 <a className="cursor-pointer rounded-2xl border-2 bg-blueaccent border-blueaccent hover:bg-white hover:text-black text-white py-1  px-4 text-sm">RESUME</a>
               </Link>
               <Link href="/projects" passHref>
-              <a className="cursor-pointer rounded-2xl border-2 text-sm border-black hover:bg-blueaccent hover:border-blueaccent hover:text-white py-1 px-4">PROJECTS</a>
+                <a className="cursor-pointer rounded-2xl border-2 text-sm border-black hover:bg-blueaccent hover:border-blueaccent hover:text-white py-1 px-4">PROJECTS</a>
               </Link>
-              <a href="https://medium.com/@ghoshabhik" rel="nofollow noreferrer" target="_blank" className="cursor-pointer rounded-2xl border-2 text-sm border-black hover:bg-blueaccent hover:border-blueaccent hover:text-white py-1 px-4">BLOG</a>
+              <a href="https://paperscripted.vercel.app/" rel="nofollow noreferrer" target="_blank" className="cursor-pointer rounded-2xl border-2 text-sm border-black hover:bg-blueaccent hover:border-blueaccent hover:text-white py-1 px-4">BLOG</a>
             </div>
             <div>You have found my personal slice on the internet. I am a Software Developer, Technical Blog Writer and a Data Architect.<br /><br /> </div>
             <div className="text-left pb-5">
               I work with the customers to solve their data problems and provide them with sustainable, scalable
-              solutions in their digital journey. I like to push the boundaries to maximize the return on our 
-              customer&apos;s IT investment. I&apos;m passinate about clean code and efficient design techniques.<br /><br /> 
-              I also write about latest technologies, development and about how-tos to help the developer communities around the world. 
+              solutions in their digital journey. I like to push the boundaries to maximize the return on our
+              customer&apos;s IT investment. I&apos;m passinate about clean code and efficient design techniques.<br /><br />
+              I also write about latest technologies, development and about how-tos to help the developer communities around the world.
               {/* I am also an active participant of multiple Data Engineering groups and meetups.  */}
 
             </div>
