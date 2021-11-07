@@ -9,11 +9,11 @@ export default function SnippetCards() {
 
             {/* List of Snippets */}
             <div>
-                <a href="https://gist.github.com/ghoshabhik/c5497682fd07eb627b3fbff3e8d5776b" rel="nofollow noreferrer" target="_blank"
+                <a href="https://dev.to/abhgho/make-peace-with-github-using-powershell-514d" rel="nofollow noreferrer" target="_blank"
                     className="pl-5"
                 >
                     <div className="ml-5 w-64 px-4 py-3 text-sm bg-white rounded-md shadow-xl border-l-8 border-blueaccent">
-                        Python <strong>Automation</strong> to clean up disk space Somthing a little longer
+                        <strong>Make peace with Github using Powershell -</strong> script to create a github repo from commandline.
                     </div>
                 </a>
             </div>
