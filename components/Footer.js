@@ -6,7 +6,7 @@ export const Footer = () => {
         <div className="flex flex-col md:flex-row items-center justify-between py-5 bg-white">
             {/* copyright */}
             <div className="ml-5 ">
-                <p>&copy; 2021 by Abhik Ghosh</p>
+                <p>&copy; 2022 by Abhik Ghosh</p>
                 <p>Created with NextJs</p>
             </div>
 
