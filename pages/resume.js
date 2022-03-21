@@ -22,7 +22,7 @@ export default function Resume() {
         </div>
 
         <div className="flex space-x-2 mb-12 w-full items-center justify-center">
-          <a className="cursor-pointer rounded-2xl border-2 bg-blueaccent border-blueaccent hover:bg-white hover:text-black text-white py-1  px-4 text-sm">DOWNLOAD RESUME</a>
+          <a className="cursor-pointer rounded-2xl border-2 bg-blueaccent border-blueaccent hover:bg-white hover:text-black text-white py-1  px-4 text-sm" href="https://drive.google.com/file/d/1-16B5AaKV3Z53WL-vC0aIESojj7FfTCU/view?usp=sharing" rel="nofollow noreferrer" target="_blank">DOWNLOAD RESUME</a>
           <a className="cursor-pointer rounded-2xl border-2 text-sm border-black hover:bg-blueaccent hover:border-blueaccent hover:text-white py-1 px-4">PROJECTS</a>
         </div>
       </div>
