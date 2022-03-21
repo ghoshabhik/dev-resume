@@ -100,7 +100,7 @@ export default function Experience() {
             <p className="xl:text-4xl text-3xl font-bold tracking-tight xl:text-left text-center">Abhik Ghosh</p>
         </div>
         <div className="flex flex-col mt-5 xl:mt-0">
-            <p className="xl:text-right text-center"><span className="font-semibold">Phone: </span>+91 760 583 5229</p>
+            <p className="xl:text-right text-center"><span className="font-semibold">Phone: </span>(425)866-0378</p>
             <p className="xl:text-right text-center"><span className="font-semibold">Website:  </span>abhikghosh.in</p>
             <p className="xl:text-right text-center"><span className="font-semibold">Email:  </span>abhik.ghosh5@gmail.com</p>
             <p className="xl:text-right text-center"><span className="font-semibold">LinkedIn:  </span>https://www.linkedin.com/in/abhik-ghosh </p>
