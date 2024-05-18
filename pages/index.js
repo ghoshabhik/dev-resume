@@ -18,8 +18,8 @@ export default function Home() {
               alt="Abhik Ghosh - Profile Photo"
             />
             <div className="text-2xl font-bold text-center my-5">
-              <p>Abhik</p>
-              <p>Ghosh</p>
+              <p>Abhik Ghosh</p>
+              <!--p>Ghosh</p-->
             </div>
             <div className="h-1 w-1/4 bg-blueaccent"></div>
             <div className="text-lg font-light text-center my-5 uppercase">Data Solution Architect</div>
